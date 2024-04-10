@@ -1,1 +1,1 @@
-**live link :** `https://weatherappjsh.netlify.app/`
+**live link :** https://weatherappjsh.netlify.app/

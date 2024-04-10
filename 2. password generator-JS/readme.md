@@ -1,1 +1,1 @@
-**live link :** `https://passwordgeneratorjsapp.netlify.app/`
+**live link :** https://passwordgeneratorjsapp.netlify.app/
